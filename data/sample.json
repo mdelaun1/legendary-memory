@@ -1,0 +1,15 @@
+{
+    "events": [
+        {
+            "event": "event1",
+            "event_id": "abcXYZ123",
+            "origin": "prod",
+            "data": {
+                "pn012": "15537U101119",
+                "count": "4",
+                "type": "customer",
+                "year": "2007"
+            }
+        }
+    ]
+}
